@@ -7,7 +7,7 @@
 
 ![Custom Filter and UserDetailsService Scenario](https://raw.githubusercontent.com/KareemEmadElfrargi/spring-security-villa-analogy/master/5.-Scenario-3.1---Custom-Filter-and-UserDetailsService-1.png)
 
- 📖 The Concept 
+ ## The Concept 
 This project demystifies Spring Security by using a **"Villa & Bodyguards"** analogy:
 * **The Villa:** Your Application.
 * **The Bodyguard (Filter):** Intercepts visitors at the door.
@@ -15,14 +15,14 @@ This project demystifies Spring Security by using a **"Villa & Bodyguards"** ana
 * **The Security Manager:** Handles authentication logic.
 
 
-## 🚀 Features
+##  Features
 * **User Registration:** Create new accounts with encrypted passwords (BCrypt).
 * **Authentication:** Login and receive a JWT token.
 * **Authorization:** Role-based access control (Admin vs User).
 * **Stateless:** No server-side sessions; fully token-based.
 * **PostgreSQL:** Robust database integration.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Java 21**
 * **Spring Boot 4.0.1**
 * **Spring Security 6**
