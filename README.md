@@ -2,7 +2,12 @@
 
 > A simplified, real-world implementation of **Spring Security 6** with **JWT** using PostgreSQL.
 
-## 📖 The Concept 
+
+
+
+![Custom Filter and UserDetailsService Scenario](https://raw.githubusercontent.com/KareemEmadElfrargi/spring-security-villa-analogy/master/5.-Scenario-3.1---Custom-Filter-and-UserDetailsService-1.png)
+
+ 📖 The Concept 
 This project demystifies Spring Security by using a **"Villa & Bodyguards"** analogy:
 * **The Villa:** Your Application.
 * **The Bodyguard (Filter):** Intercepts visitors at the door.
