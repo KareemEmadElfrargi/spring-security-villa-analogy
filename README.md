@@ -1,4 +1,4 @@
-**# Spring Boot Security & JWT (Simplified)
+# Spring Boot Security & JWT (Simplified) - Simple Task
 
 > A simplified, real-world implementation of **Spring Security 6** with **JWT** using PostgreSQL.
 
