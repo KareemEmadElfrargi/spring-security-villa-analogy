@@ -24,7 +24,7 @@ This project demystifies Spring Security by using a **"Villa & Bodyguards"** ana
 
 ## 🛠️ Tech Stack
 * **Java 21**
-* **Spring Boot 4.0.1
+* **Spring Boot 4.0.1**
 * **Spring Security 6**
 * **PostgreSQL**
 * **JWT** (JSON Web Token)
